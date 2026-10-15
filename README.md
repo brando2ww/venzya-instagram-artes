@@ -8,6 +8,7 @@ Artes, imagens e planos editoriais do Instagram da VENZYA.
 - [Feed — standalone](VENZYA%20Feed%20-%20Plano%20Editorial%20%28standalone%29.html)
 - [Imagens](imagens/)
 - [Kit de destaques](destaques-kit/)
+- [Vídeos — Ads 01](V%C3%ADdeos/Ads%2001/)
 
 Para visualizar os planos editoriais, baixe o repositório e abra os arquivos HTML no navegador. Mantenha as pastas de imagens junto dos arquivos HTML.
 
