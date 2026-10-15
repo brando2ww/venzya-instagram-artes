@@ -6,6 +6,164 @@ Links diretos para todos os arquivos de artes, vídeos, referências e planos ed
 
 Os links dos HTML permitem baixar os planos editoriais; abra-os no navegador após baixar.
 
+## Feed por publicação
+
+Os carrosséis estão agrupados por publicação, com os slides na sequência do plano editorial. As demais pastas do índice incluem capas, variantes e materiais de apoio.
+
+### P01 — Conheça o VENZYA Copilot: inteligência no fluxo comercial do corretor
+
+Carrossel · 5 slides
+
+1. [Slide 1](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P01-1.png)
+2. [Slide 2](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P01-2.png)
+3. [Slide 3](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P01-3.png)
+4. [Slide 4](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P01-4.png)
+5. [Slide 5](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P01-5.png)
+
+### P02 — VENZYA Insights #01: reforma tributária e imóveis, o que o regulamento da CBS diz
+
+Carrossel · 5 slides
+
+1. [Slide 1](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P02-1.png)
+2. [Slide 2](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P02-2.png)
+3. [Slide 3](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P02-3.png)
+4. [Slide 4](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P02-4.png)
+5. [Slide 5](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P02-5.png)
+
+### P03 — O cliente disse que está caro: 4 perguntas antes de responder
+
+Carrossel · 5 slides
+
+1. [Slide 1](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P03-1.png)
+2. [Slide 2](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P03-2.png)
+3. [Slide 3](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P03-3.png)
+4. [Slide 4](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P03-4.png)
+5. [Slide 5](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P03-5.png)
+
+### P04 — VENZYA Insights #02: crédito imobiliário em três números
+
+Carrossel · 5 slides
+
+1. [Slide 1](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P04-1.png)
+2. [Slide 2](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P04-2.png)
+3. [Slide 3](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P04-3.png)
+4. [Slide 4](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P04-4.png)
+5. [Slide 5](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P04-5.png)
+
+### P05 — O cliente visitou o imóvel e sumiu: guia de acompanhamento
+
+Carrossel · 5 slides
+
+1. [Slide 1](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P05-1.png)
+2. [Slide 2](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P05-2.png)
+3. [Slide 3](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P05-3.png)
+4. [Slide 4](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P05-4.png)
+5. [Slide 5](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P05-5.png)
+
+### P06 — Bot automático ou Copilot? Automação e apoio ao corretor
+
+Carrossel · 5 slides
+
+1. [Slide 1](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P06-1.png)
+2. [Slide 2](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P06-2.png)
+3. [Slide 3](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P06-3.png)
+4. [Slide 4](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P06-4.png)
+5. [Slide 5](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P06-5.png)
+
+### P07 — 5 sinais de que a operação comercial precisa de organização
+
+Carrossel · 5 slides
+
+1. [Slide 1](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P07-1.png)
+2. [Slide 2](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P07-2.png)
+3. [Slide 3](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P07-3.png)
+4. [Slide 4](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P07-4.png)
+5. [Slide 5](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P07-5.png)
+
+### P08 — CRM, WhatsApp e gestão integrada: onde cada ferramenta entra
+
+Carrossel · 5 slides
+
+1. [Slide 1](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P08-1.png)
+2. [Slide 2](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P08-2.png)
+3. [Slide 3](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P08-3.png)
+4. [Slide 4](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P08-4.png)
+5. [Slide 5](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P08-5.png)
+
+### P09 — “Vou pensar e te aviso.” E agora?
+
+Arte única · 1 imagem
+
+1. [Slide 1](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P09-1.png)
+
+### P10 — A melhor resposta começa pelo contexto
+
+Arte única · 1 imagem
+
+1. [Slide 1](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P10-1.png)
+
+### P11 — Follow-up não precisa ser insistência
+
+Arte única · 1 imagem
+
+1. [Slide 1](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P11-1.png)
+
+### P12 — O corretor decide. A IA auxilia.
+
+Arte única · 1 imagem
+
+1. [Slide 1](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P12-1.png)
+
+### P13 — Uma conversa pode mudar o próximo passo
+
+Arte única · 1 imagem
+
+1. [Slide 1](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P13-1.png)
+
+### P14 — Tecnologia para o corretor, clareza para o gestor
+
+Arte única · 1 imagem
+
+1. [Slide 1](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P14-1.png)
+
+### P15 — Conheça a interface do VENZYA Copilot
+
+Arte única · 1 imagem
+
+1. [Slide 1](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P15-1.png)
+
+### P16 — Uma análise mais inteligente começa com uma conversa
+
+Arte única · 1 imagem
+
+1. [Slide 1](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P16-1.png)
+
+### P17 — Sua imobiliária não deveria depender de informações espalhadas
+
+Arte única · 1 imagem
+
+1. [Slide 1](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P17-1.png)
+
+### P18 — Transforme conhecimento comercial em processos mais claros
+
+Arte única · 1 imagem
+
+1. [Slide 1](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P18-1.png)
+
+### P19 — Por que criamos o VENZYA Copilot?
+
+Arte única · 1 imagem
+
+1. [Slide 1](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P19-1.png)
+
+### P20 — Conheça a VENZYA Platform
+
+Arte única · 1 imagem
+
+1. [Slide 1](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/imagens/slides-prontos-v2/P20-1.png)
+
+## Todos os arquivos por pasta
+
 ## Planos editoriais
 
 - [VENZYA Destaques - Plano Editorial.html](https://raw.githubusercontent.com/brando2ww/venzya-instagram-artes/main/VENZYA%20Destaques%20-%20Plano%20Editorial.html)
